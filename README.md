@@ -8,3 +8,6 @@
   
 ## 3) Material de Auxílio do Relatório:
   Pasta com o modelo do roteiro e slides de como fazer redações em relatórios.
+
+## 4) Images:
+  Pasta com as imagens utilizadas no relatório.
